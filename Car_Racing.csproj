@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\car1.png" />
+    <None Remove="images\car2.png" />
+    <None Remove="images\car3.png" />
+    <None Remove="images\car4.png" />
+    <None Remove="images\car5.png" />
+    <None Remove="images\car6.png" />
+    <None Remove="images\icon.ico" />
+    <None Remove="images\playerImage.png" />
+    <None Remove="images\powermode1.png" />
+    <None Remove="images\powermode2.png" />
+    <None Remove="images\powermode3.png" />
+    <None Remove="images\powermode4.png" />
+    <None Remove="images\star.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\car1.png" />
+    <Resource Include="images\car2.png" />
+    <Resource Include="images\car3.png" />
+    <Resource Include="images\car4.png" />
+    <Resource Include="images\car5.png" />
+    <Resource Include="images\car6.png" />
+    <Resource Include="images\icon.ico" />
+    <Resource Include="images\playerImage.png" />
+    <Resource Include="images\powermode1.png" />
+    <Resource Include="images\powermode2.png" />
+    <Resource Include="images\powermode3.png" />
+    <Resource Include="images\powermode4.png" />
+    <Resource Include="images\star.png" />
+  </ItemGroup>
+
+</Project>

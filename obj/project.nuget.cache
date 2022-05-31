@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKrenW7sW2WrMUMEz+NyIxUhjEktbZgUfMk5QN7QYktU7WC/cEE+8E/otB+jFPuagpA9i22hVy3MTZqqb1Zwgg==",
+  "success": true,
+  "projectFilePath": "D:\\HCMUTE\\HK4\\LTWin\\DAGK\\Car_Racing\\Car_Racing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thudu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\thudu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\thudu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\thudu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
